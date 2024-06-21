@@ -6,8 +6,10 @@
 - /* multi line comments */
 
 • variable names are case sensitive, so the following variables are different from each other
-- let name;
-- let Name;
+```javascript
+  let name;
+  let Name;
+```
 
 you can declare a few variables at once:<br />
 // without values<br />
