@@ -26,15 +26,15 @@ let firstName = "Ethan", lastName = "hunt", age = "30";
 ```
 
 - built-in functions<br />
-  • Math.random()
-  • console.log()
+  • Math.random()<br />
+  • console.log()<br />
 
 - Arrays<br />
-• let array = [];
-• let array = [1,2,3];
-• let array = [1, "Ethan", 0.5, true];
-• array[0] // accessing array element
-• array.push();
-• array.pop();
-• array[0];
-• using Math.random() to pick a random array element
+• let array = [];<br />
+• let array = [1,2,3];<br />
+• let array = [1, "Ethan", 0.5, true];<br />
+• array[0] // accessing array element<br />
+• array.push();<br />
+• array.pop();<br />
+• array[0];<br />
+• using Math.random() to pick a random array element<br />
