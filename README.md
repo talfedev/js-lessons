@@ -24,3 +24,17 @@ let firstName, lastName, age;
 ```javascript
 let firstName = "Ethan", lastName = "hunt", age = "30";
 ```
+
+- built-in functions<br />
+  • Math.random()
+  • console.log()
+
+- Arrays<br />
+• let array = [];
+• let array = [1,2,3];
+• let array = [1, "Ethan", 0.5, true];
+• array[0] // accessing array element
+• array.push();
+• array.pop();
+• array[0];
+• using Math.random() to pick a random array element
