@@ -13,7 +13,11 @@ let Name;
 
 you can declare a few variables at once:<br />
 // without values<br />
-```let firstName, lastName, age;```
+```javascript
+let firstName, lastName, age;
+```
 
 //with values<br />
-```javascript let firstName = "Ethan", lastName = "hunt", age = "30";```
+```javascript
+let firstName = "Ethan", lastName = "hunt", age = "30";
+```
