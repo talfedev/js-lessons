@@ -7,7 +7,8 @@
 /* multi line comments */
 ```
 
-- variable names are case sensitive, so the following variables are different from each other
+- variable extra info<br />
+names are case sensitive, so the following variables are different from each other
 ```javascript
 let name;
 let Name;
