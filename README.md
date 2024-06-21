@@ -1,11 +1,13 @@
 # js-lessons
 
 ## lesson 2
-• comments
-- // one line comments
-- /* multi line comments */
+- comments
+```javascript
+// one line comments
+/* multi line comments */
+```
 
-• variable names are case sensitive, so the following variables are different from each other
+- variable names are case sensitive, so the following variables are different from each other
 ```javascript
 let name;
 let Name;
