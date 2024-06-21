@@ -16,4 +16,4 @@ you can declare a few variables at once:<br />
 ```let firstName, lastName, age;```
 
 //with values<br />
-```let firstName = "Ethan", lastName = "hunt", age = "30";```
+```javascript let firstName = "Ethan", lastName = "hunt", age = "30";```
