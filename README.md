@@ -10,7 +10,7 @@
 - let Name;
 
 you can declare a few variables at once:<br />
-// without values
+// without values<br />
 let firstName, lastName, age;
 
 //with values
