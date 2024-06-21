@@ -7,13 +7,13 @@
 
 • variable names are case sensitive, so the following variables are different from each other
 ```javascript
-  let name;
-  let Name;
+let name;
+let Name;
 ```
 
 you can declare a few variables at once:<br />
 // without values<br />
-let firstName, lastName, age;
+```let firstName, lastName, age;```
 
 //with values<br />
-let firstName = "Ethan", lastName = "hunt", age = "30";
+```let firstName = "Ethan", lastName = "hunt", age = "30";```
